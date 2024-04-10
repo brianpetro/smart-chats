@@ -1,0 +1,34 @@
+{
+  "name": "smart-chats",
+  "author": "Brian Petro (🌴 Brian)",
+  "license": "MIT",
+  "version": "1.0.1",
+  "description": "no-nonsense storage and rendering for smart chats",
+  "main": "smart_chats.js",
+  "scripts": {
+    "test": "npx ava --verbose"
+  },
+  "devDependencies": {
+    "ava": "^6.1.2"
+  },
+  "ava": {
+    "files": [
+      "**/*.test.js"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianpetro/smart-chats.git"
+  },
+  "keywords": [
+    "AI",
+    "chat",
+    "models",
+    "universal",
+    "adapter"
+  ],
+  "bugs": {
+    "url": "https://github.com/brianpetro/smart-chats/issues"
+  },
+  "homepage": "https://github.com/brianpetro/smart-chats#readme"
+}
