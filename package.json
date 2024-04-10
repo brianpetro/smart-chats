@@ -5,11 +5,14 @@
   "version": "1.0.1",
   "description": "no-nonsense storage and rendering for smart chats",
   "main": "smart_chats.js",
-  "scripts": {
-    "test": "npx ava --verbose"
+  "dependencies": {
+    "smart-chat-model": "latest"
   },
   "devDependencies": {
     "ava": "^6.1.2"
+  },
+  "scripts": {
+    "test": "npx ava --verbose"
   },
   "ava": {
     "files": [
