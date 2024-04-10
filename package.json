@@ -5,9 +5,6 @@
   "version": "1.0.2",
   "description": "no-nonsense storage and rendering for smart chats",
   "main": "smart_chats.js",
-  "dependencies": {
-    "smart-chat-model": "latest"
-  },
   "devDependencies": {
     "ava": "^6.1.2"
   },
