@@ -2,7 +2,7 @@
   "name": "smart-chats",
   "author": "Brian Petro (🌴 Brian)",
   "license": "MIT",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "no-nonsense storage and rendering for smart chats",
   "main": "smart_chats.js",
   "devDependencies": {
